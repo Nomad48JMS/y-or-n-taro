@@ -1,0 +1,36 @@
+Copyright:
+Typeface © (your company). 2021. All Rights https://www.fonts-online.ru/font/Arounder
+
+
+
+Reserved
+Семейство:
+Arounder
+Подсемейство:
+Regular
+Идентификатор:
+mr_Arounder Arounder:Version 1.00
+Полное название шрифта:
+mr_Arounder Arounder
+Версия:
+Version 1.00 March 23, 2021, initial release
+PostScript название:
+mr_Arounder-Arounder
+Торговая марка:
+Arounder is a trademark of Mr_Fonts
+Изготовитель:
+mr_Arounder-Arounder
+Дизайнер:
+Maxim Raikov
+Описание:
+This font was created using FontCreator 9.0 from High-Logic.com
+URL поставщика:
+https://www.behance.net/m-raikov0e88
+URL дизайнера:
+https://www.behance.net/m-raikov0e88
+Описание лицензии:
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+URL лицензии:
+http://scripts.sil.org/OFL
+Размер:
+23 Кб
